@@ -15,5 +15,5 @@ To use:
     <input decorator="pikaday:myDate" />
     ```
 
-    Where myDate is the keypate to the date stored on the ractive object.
+    Where myDate is the keypath to the date stored on the ractive object.
 
