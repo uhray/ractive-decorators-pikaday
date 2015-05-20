@@ -7,6 +7,7 @@ require.config({
     normalize:     'bower_components/require-css/normalize',
     ractive:       'bower_components/ractive/ractive',
     rv:            'bower_components/rv/rv',
+    moment:        'bower_components/moment/moment',
     pikaday:       'bower_components/pikaday/pikaday'
   },
   shim: {
